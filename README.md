@@ -1,4 +1,4 @@
-#ss-Linear-Noise-Approximation
+# ss-Linear-Noise-Approximation
 
 Python scripts used to simulate Figure 2 of the paper "Stochastic enzyme kinetics and the quasi-steady-state reductions: 
 Application of the slow scale linear noise approximation \` a la Fenichel" [arXiv, 2101.04814 (physics.chem-ph)]. All 
