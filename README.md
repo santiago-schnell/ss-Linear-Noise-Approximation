@@ -1,6 +1,6 @@
-# Paper: Stochastic enzyme kinetics and the quasi-steady-state reductions: Application of the slow scale linear noise approximation \` a la Fenichel
-# Authors: Justin Eilertsen and Santiago Schnell
-# Preprint refefence: arXiv, 2101.04814 (physics.chem-ph)
-# URL: https://arxiv.org/abs/2101.04814
+#ss-Linear-Noise-Approximation
 
-This is Python computer code to run simulations shown in Figure 2 of the above paper.  
+Python scripts used to simulate Figure 2 of the paper "Stochastic enzyme kinetics and the quasi-steady-state reductions: 
+Application of the slow scale linear noise approximation \` a la Fenichel" [arXiv, 2101.04814 (physics.chem-ph)]. All 
+codes were run using Python, version 2.7. This code was originally created by WJustin Eilertsen.  For more information, 
+we recommend to read the paper on: https://arxiv.org/abs/2101.04814. If you use our code, please cite our manuscript.
